@@ -1,16 +1,30 @@
 [
   {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "HTML Color Codes\nCoolors"
+  },
+  {
+    "objectID": "resources.html#resources-for-colour-palettes",
+    "href": "resources.html#resources-for-colour-palettes",
+    "title": "Resources",
+    "section": "",
+    "text": "HTML Color Codes\nCoolors"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lily Peck",
+    "section": "",
+    "text": "Lily is an Evolutionary Biology researcher, interested in protecting and conserving the natural environment, and how anthropogenic processes affect the health and evolution of ecosystems. Specifically, I am interested in how a better understanding of evolutionary change can be applied for conservation to solve the problems of the future. I enjoy sharing this fascination for the natural environment and the discoveries from my work with diverse groups of people."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "lilypeck.github.io",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]

@@ -1,11 +1,18 @@
 ---
-title: "lilypeck.github.io"
+title: "Lily Peck"
+image: images/Sweetie2.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/test/
+    - text: GitHub
+      href: https://github.com/test
+    - text: Email
+      href: mailto:test@ucsb.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Lily is an Evolutionary Biology researcher, interested in protecting and conserving the natural environment, and how anthropogenic processes affect the health and evolution of ecosystems. Specifically, I am interested in how a better understanding of evolutionary change can be applied for conservation to solve the problems of the future. I enjoy sharing this fascination for the natural environment and the discoveries from my work with diverse groups of people.
