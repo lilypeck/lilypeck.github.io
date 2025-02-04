@@ -25,11 +25,11 @@ website:
     right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}]{target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank}, [Quarto](https://quarto.org/){target=_blank}, and Sammy Shanny-Csik's [excellent guide](https://samanthacsik.github.io/talks_workshops/2022-08-05-creating-your-personal-website-using-quarto/)
 format:
   html:
-    theme: 
-    - jolla
-    - styles.scss
-    #theme: cosmo
+    # theme: 
+    # - jolla
+    # - styles.scss
+    theme: cosmo
     mainfont: Nunito
-    #css: styles.scss # this file will incorporate .scss and .css files
+    css: styles.scss # this file will incorporate .scss and .css files
     toc: true
     page-layout: full
