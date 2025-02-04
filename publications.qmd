@@ -1,0 +1,27 @@
+---
+Title: "Publications"
+---
+
+<h2 class="title">In review</h2>
+
+- De Carvalho C, Ord J, Escuer P, Fox J, Li-Byarlay H, Peck LD, Planidin N, Venney C, Marshall H (2025). Long-read sequencing for epigenomic studies in the fields of ecology and evolution. Cell Genomics. https://zenodo.org/records/14671205  
+
+<h2 class="title">Accepted</h2>
+
+- Sork VL, Buck RC, Peck LD & Wright JW. Accepted at Proceedings of the 8th California Oak Symposium. Sustaining Oak Woodlands under Current and Future Conditions. U.S. Department of Agriculture, Forest Service, Pacific Southwest Research Station. 21st century tools for conserving oak populations under threat of climate change. 
+
+<h2 class="title">Published</h2>
+
+- [Peck LD](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002480&utm_source=miragenews&utm_medium=miragenews&utm_campaign=news), Llewellyn T, Bennetot B, O'Donnell S, Nowell RW, Ryan MJ, Flood J, Rodriguez de la Vega R, Ropars J, Giraud T, Spanu PD, Barraclough TG (2024). Horizontal transfers between fungal Fusarium species contributed to successive outbreaks of coffee wilt disease. PLoS Biology 22 (12): e3002480 
+
+- [Peck LD](https://www.cell.com/trends/plant-science/fulltext/S1360-1385(24)00113-4) & Sork VL (2024). Can DNA methylation shape climate response in trees? Trends in Plant Science 29 (10): 1089-1102
+
+- [Peck LD](https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1111/ppa.13833) & Boa E (2023). Coffee wilt disease – the forgotten threat to coffee. Plant Pathology 73 (3): 506-521
+
+- Peck LD (2023). Seventy years of Fusarium wilt-coffee interactions: historical genomics reveals pathogen emergence and divergence. PhD Thesis, Imperial College London: https://doi.org/10.25560/103679
+
+- Zhang XM, [Peck LD](https://www.nature.com/articles/s41598-023-36474-w), Flood J, Ryan MJ & Barraclough, TG (2023). Temperature contributes to host specialization of coffee wilt disease (Fusarium xylarioides) on arabica and robusta coffee crops. Scientific Reports 13 (1): 9327
+
+- Ryan MJ, [Peck LD](https://link.springer.com/article/10.1007/s42161-022-01217-9), Smith D, Flood J & Barraclough, TG (2022). Culture collections as a source of historic strains for genomic studies in plant pathology. Journal of Plant Pathology 106 (2): 357-362
+
+- [Peck LD](https://link.springer.com/article/10.1186/s12864-021-07700-4), Nowell RW, Flood J, Ryan MR & Barraclough TG (2021). Historical genomics reveals the evolutionary mechanisms behind multiple outbreaks of the host- specific coffee wilt pathogen Fusarium xylarioides. BMC Genomics 22 (404): 10.1186

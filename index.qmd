@@ -4,15 +4,23 @@ image: images/Sweetie2.jpg
 toc: false
 about: 
   template: jolla
-  image-shape: rectangle
+  image-shape: rounded
   image-width: 17em
   links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/test/
-    - text: GitHub
+    - icon: linkedin 
+      text: LinkedIn
+      href: https://www.linkedin.com/in/yourlinkedinname/
+      target: _blank
+    - icon: github 
+      text: GitHub
       href: https://github.com/test
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:test@ucsb.edu
+    - icon: bluesky
+      text: bluesky
+      href: https://bsky.app/profile/lilypeck.bsky.social
+      target: _blank
 ---
 
-Lily is an Evolutionary Biology researcher, interested in protecting and conserving the natural environment, and how anthropogenic processes affect the health and evolution of ecosystems. Specifically, I am interested in how a better understanding of evolutionary change can be applied for conservation to solve the problems of the future. I enjoy sharing this fascination for the natural environment and the discoveries from my work with diverse groups of people.
+I'm currently a postdoctoral scholar at the University of California Los Angeles, Ecology and Evolutionary Biology Dept. working with Dr. Victoria Sork. My research focusses upon the ecology and evolution of natural populations of plants and fungi. Specifically, I am currently working on genetic and epigenetic responses of tree populations to climate change. I received my PhD from Imperial College London in the Barraclough lab. Click through the tabs for more information about the projects and publications which I am involved with. 

@@ -5,15 +5,31 @@ project:
 website:
   title: "Lily Peck"
   navbar:
-    left:
-     - href: index.qmd
-       text: Home
-     - about.qmd
-     - resources.qmd
-
+    right: # accepts right/left/center; you can also place items individually on the left, right, and center
+      - href: news.qmd
+        text: News
+      - about.qmd
+      - href: resources.qmd
+        text: Resources
+      - href: publications.qmd
+        text: Publications
+#      - href: file/path/to/myCV.pdf # providing a relative file path to a pdf will open up a browser-based pdf viewer when clicked
+#        text: CV
+        target: _blank # opens link (or page) in a new browser tab
+      - icon: github # add icons as navbar buttons
+        href: https://github.com/lilypeck/
+        target: _blank
+  page-footer:
+    background: light # or `dark`
+    #left: Copyright 2021, Samantha Csik
+    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}]{target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank}, [Quarto](https://quarto.org/){target=_blank}, and Sammy Shanny-Csik's [excellent guide](https://samanthacsik.github.io/talks_workshops/2022-08-05-creating-your-personal-website-using-quarto/)
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+    - jolla
+    - styles.scss
+    #theme: cosmo
+    mainfont: Nunito
+    #css: styles.scss # this file will incorporate .scss and .css files
     toc: true
     page-layout: full

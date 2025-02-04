@@ -1,9 +1,15 @@
 ---
-title: "About"
+title: "Research"
 ---
 
-About this site
+<h2 class="title">Response to environmental stress</h2>
 
-```{r}
-1 + 1
-```
+Understanding the extent to which ecological traits can be manipulated provides a promising research avenue in conservation genomics and restoration ecology of natural tree populations as well as in commercial forest management.
+
+<h2 class="title">Mechanisms of evolutionary change</h2>
+
+blah blah
+
+<h2 class="title">Plant-pathogen dynamics</h2>
+
+blah blah
