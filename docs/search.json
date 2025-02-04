@@ -2,29 +2,36 @@
   {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "Resources",
+    "title": "All my favorite resources!",
     "section": "",
-    "text": "HTML Color Codes\nCoolors"
+    "text": "this is an &lt;h1&gt; element\n\n\nthis is an &lt;h1&gt; element of class title\n\n\nthis is a &lt;p&gt; element\n\n\nthis is a &lt;p&gt; element of class title\n\n\nClimate change\n\n\n\nThis paragraph is orange.\n\n\nThis paragraph is centered.\n\n\nThis paragraph has no styling.\n\n\nThis level-2 header is centered\n\n\n\nThis level-3 header is both centered and orange\n\n\nThis paragraph is orange and bolded using markdown syntax (yes, you can combine markdown and html!).\n\n\n\nHere is some orange text.\n\n\nAnd here is some normal text beneath it.\n\nHere is more orange text written using Quarto’s syntax\nAlso note that I do not need to wrap this text in the &lt;p&gt; tag in order for it to render as normal text. .qmd files allow us to seamlessly blend markdown syntax with HTML."
   },
   {
-    "objectID": "resources.html#resources-for-colour-palettes",
-    "href": "resources.html#resources-for-colour-palettes",
-    "title": "Resources",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Lily Peck",
     "section": "",
-    "text": "HTML Color Codes\nCoolors"
+    "text": "In review\n\n\nDe Carvalho C, Ord J, Escuer P, Fox J, Li-Byarlay H, Peck LD, Planidin N, Venney C, Marshall H (2025). Long-read sequencing for epigenomic studies in the fields of ecology and evolution. Cell Genomics. https://zenodo.org/records/14671205\n\n\nAccepted\n\n\nSork VL, Buck RC, Peck LD & Wright JW. Accepted at Proceedings of the 8th California Oak Symposium. Sustaining Oak Woodlands under Current and Future Conditions. U.S. Department of Agriculture, Forest Service, Pacific Southwest Research Station. 21st century tools for conserving oak populations under threat of climate change.\n\n\nPublished\n\n\nPeck LD, Llewellyn T, Bennetot B, O’Donnell S, Nowell RW, Ryan MJ, Flood J, Rodriguez de la Vega R, Ropars J, Giraud T, Spanu PD, Barraclough TG (2024). Horizontal transfers between fungal Fusarium species contributed to successive outbreaks of coffee wilt disease. PLoS Biology 22 (12): e3002480\nPeck LD & Sork VL (2024). Can DNA methylation shape climate response in trees? Trends in Plant Science 29 (10): 1089-1102\nPeck LD & Boa E (2023). Coffee wilt disease – the forgotten threat to coffee. Plant Pathology 73 (3): 506-521\nPeck LD (2023). Seventy years of Fusarium wilt-coffee interactions: historical genomics reveals pathogen emergence and divergence. PhD Thesis, Imperial College London: https://doi.org/10.25560/103679\nZhang XM, Peck LD, Flood J, Ryan MJ & Barraclough, TG (2023). Temperature contributes to host specialization of coffee wilt disease (Fusarium xylarioides) on arabica and robusta coffee crops. Scientific Reports 13 (1): 9327\nRyan MJ, Peck LD, Smith D, Flood J & Barraclough, TG (2022). Culture collections as a source of historic strains for genomic studies in plant pathology. Journal of Plant Pathology 106 (2): 357-362\nPeck LD, Nowell RW, Flood J, Ryan MR & Barraclough TG (2021). Historical genomics reveals the evolutionary mechanisms behind multiple outbreaks of the host- specific coffee wilt pathogen Fusarium xylarioides. BMC Genomics 22 (404): 10.1186"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "Autumn 2024: New paper published in PLOS Biology which uses historic strains of the coffee wilt disease pathogen to show that host specificity and disease were driven by serial horizontal transfer events. All analyses, scripts, and code are on .\nAutumn 2024: New opinion article published in Trends in Plant Science in which we argue that, as in crop plants, some types of DNA methylation in trees can induce phenotypic changes, including changes in climate-relevant traits. This follows recent findings in a few tree species that show phenotypic change following DNA methylation of promoter regions upstream of genes.\nSummer 2024: Gave a talk in the Adaptive Epigenetics session at the 3rd Joint Congress on Evolutionary Biology meeting in Montréal: “Can DNA methylation help us understand climate adaptation in trees?”\nSummer 2024: The Lake Wildfire erupted in the Santa Ynez Valley, where the UC Sedgwick Reserve is located, a long-term oak study site for the Sork lab. We went up as a lab the week following the fire, and I returned after a month to measure physiological traits of burnt and un-burnt trees… watch this space!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Lily Peck",
     "section": "",
-    "text": "Lily is an Evolutionary Biology researcher, interested in protecting and conserving the natural environment, and how anthropogenic processes affect the health and evolution of ecosystems. Specifically, I am interested in how a better understanding of evolutionary change can be applied for conservation to solve the problems of the future. I enjoy sharing this fascination for the natural environment and the discoveries from my work with diverse groups of people."
+    "text": "I’m currently a postdoctoral scholar at the University of California Los Angeles, Ecology and Evolutionary Biology Dept. working with Dr. Victoria Sork. My research focusses upon the ecology and evolution of natural populations of plants and fungi. Specifically, I am currently working on genetic and epigenetic responses of tree populations to climate change. I received my PhD from Imperial College London in the Barraclough lab. Click through the tabs for more information about the projects and publications which I am involved with."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Research",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Response to environmental stress\n\nUnderstanding the extent to which ecological traits can be manipulated provides a promising research avenue in conservation genomics and restoration ecology of natural tree populations as well as in commercial forest management.\n\nMechanisms of evolutionary change\n\nblah blah\n\nPlant-pathogen dynamics\n\nblah blah"
   }
 ]
