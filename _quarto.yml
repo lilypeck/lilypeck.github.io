@@ -15,7 +15,7 @@ website:
         text: Publications
 #      - href: file/path/to/myCV.pdf # providing a relative file path to a pdf will open up a browser-based pdf viewer when clicked
 #        text: CV
-        target: _blank # opens link (or page) in a new browser tab
+#        target: _blank # opens link (or page) in a new browser tab
       - icon: github # add icons as navbar buttons
         href: https://github.com/lilypeck/
         target: _blank
