@@ -4,11 +4,11 @@ title: "Research"
 
 <h2 class="title">Response to environmental stress</h2>
 
-Understanding the extent to which ecological traits can be manipulated provides a promising research avenue in conservation genomics and restoration ecology of natural tree populations as well as in commercial forest management.
+Many plant and animal species are suffering in response to a rapidly changing climate. Here in California, over 10 million trees (or 20% of total forest cover) experienced mass die off between 2013-15 in response to historic drought and wildfire. This environmental crisis necessitates a basic understanding of the biological processes underlying both short-term and long-term (or evolutionary) responses to these new climates. For most locally adapted populations, the reaction to a novel climate condition, such as drought, will be changes in expression of stress-related and drought-related genes. My work in the Sork lab as a postdoc is analysing the biological processes related to short- and long-term environmental stress response. I am using seedlings from a California endemic oak to explore the role of genetics, epigenetics, regulatory mechanisms and physiological response at a molecular and population scale. 
 
 <h2 class="title">Mechanisms of evolutionary change</h2>
 
-blah blah
+Across eukaryota, we see dizzying amounts of diversity, with different organisms undergoing peculiar mechanisms through the processes of adaptation and diversification. I am particularly interested in how genome structure interacts with these processes in complex non-model organisms. My PhD focussed upon the emergence and divergence of a fungal plant pathogen, finding that horizontal gene transfer from a distant relative occurred repeatedly and could be one of the drivers behind the repeated emergence of coffee wilt disease over the last century via the transfer of pathogenicity gene- and repeat-rich genomic regions. My postdoc is quantifying dramatic differential DNA methylation, a type of epigenetic change, in response to environmental stress in oaks, and how this shapes expression of drought-responsive genes and physiological phenotypes. Such mechanisms, be it horizontal transfer or epigenetic modifications, can be beneficial in increasing genome variability, which in turn can result in the evolution or activation of stress-responsive genes. Such processes can also result in adaptation to new hosts or new environments and subsequent speciation. 
 
 <h2 class="title">Plant-pathogen dynamics</h2>
 
