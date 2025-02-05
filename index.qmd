@@ -9,11 +9,11 @@ about:
   links:
     - icon: linkedin 
       text: LinkedIn
-      href: https://www.linkedin.com/in/yourlinkedinname/
+      href: https://uk.linkedin.com/in/lily-peck-a705288a
       target: _blank
     - icon: github 
       text: GitHub
-      href: https://github.com/test
+      href: https://github.com/lilypeck
     - icon: envelope
       text: Email
       href: mailto:ldpeck@ucla.edu
