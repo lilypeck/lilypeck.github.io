@@ -28,5 +28,4 @@ Hello!
 
 I am an evolutionary genomicist at the Dept. of Ecology and Evolutionary Biology at the University of California Los Angeles, working with Victoria Sork. I received my PhD in Evolutionary Biology from Imperial College London, supervised by Tim Barraclough and Matthew Ryan at the Centre for Agriculture and Biosciences (CABI). 
 
-My broad interests are in the ecology and adaptation of natural populations of plants and fungi. I use whole-genome, methylome, and transcriptome sequence data along with population genomics and comparative phylogenetic approaches to better understand how these processes contribute to evolutionary change. I'm currently a postdoctoral scholar working on genetic and epigenetic responses of tree populations to climate change. In my PhD, I used cryogenically preserved living isolates to track fungal evolution over a timescale of decades. In my free time I swim in the Pacific ocean and run in the coastal hills.
-
+My research addresses questions in evolutionary genomics. Specifically, I study the genetic mechanisms by which organisms adapt to environmental change, such as a warming climate, disease, or anthropogenic-induced landscape changes. In my free time I like to be in nature, swimming and surfing in the Pacific ocean and running in the coastal hills.
