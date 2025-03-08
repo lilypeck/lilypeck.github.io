@@ -396,7 +396,22 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-published-in-plos-biology-which-uses-historic-strains-of-the-coffee-wilt-disease-pathogen-to-show-that-host-specificity-and-disease-were-driven-by-serial-horizontal-transfer-events-all-analyses-scripts-and-code-are-on",
           title: 'New paper published in PLOS Biology which uses historic strains of the coffee...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-life-in-fluctuating-environments",
+          title: 'Life in fluctuating environments',
+          description: "The genomic basis of stress response",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-mechanisms-of-evolutionary-change",
+          title: 'Mechanisms of evolutionary change',
+          description: "The role of genome structure in adaptation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
+            },},{id: "projects-plant-pathogen-dynamics",
+          title: 'Plant-pathogen dynamics',
+          description: "A genomic and transcriptomic co-evolutionary arms race",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
