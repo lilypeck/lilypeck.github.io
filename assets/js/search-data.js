@@ -429,16 +429,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-talk-at-the-3rd-joint-congress-on-evolutionary-biology-meeting-in-montréal-in-the-adaptive-epigenetics-session-it-was-great-meeting-and-collaborating-with-the-organisers-and-other-speakers-in-the-session-watch-this-space",
+          title: 'Talk at the 3rd Joint Congress on Evolutionary Biology meeting in Montréal in...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-invited-to-give-a-departmental-seminar-in-ecology-and-evolutionary-biology-here-at-ucla-the-title-of-my-talk-was-can-dna-methylation-help-us-understand-climate-adaptation-in-trees",
+          title: 'Invited to give a departmental seminar in Ecology and Evolutionary Biology here at...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-new-paper-published-in-plos-biology-which-uses-historic-strains-of-the-coffee-wilt-disease-pathogen-to-show-that-host-specificity-and-disease-were-driven-by-serial-horizontal-transfer-events-all-analyses-scripts-and-code-are-on",
+          title: 'New paper published in PLOS Biology which uses historic strains of the coffee...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
