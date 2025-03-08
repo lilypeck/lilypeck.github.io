@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-research",
+          title: "research",
+          description: "My broad interests are in the ecology and adaptation of natural populations of plants and fungi. In this, I have worked with a range of natural populations and organisms, pathogenic and cheese-making fungi and California oaks. I use whole-genome, methylome, and transcriptome sequence data along with population genomics and comparative phylogenetic approaches to better understand how these processes contribute to evolutionary change. Through all my research avenues, I have brought creativity and a collaborative nature, leading me to exciting questions and results about the mechanisms underlying evolutionary change, and the role of genomic structure in response to environmental stress.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/research/";
           },
         },{id: "nav-repositories",
           title: "repositories",
@@ -44,12 +44,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-news",
+          title: "news",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/news/";
           },
         },{id: "nav-people",
           title: "people",
