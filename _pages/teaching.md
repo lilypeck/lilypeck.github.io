@@ -6,7 +6,15 @@ description:
 nav: true
 nav_order: 6
 ---
+- **Summer 2025:** Went to Botany 2025 in Palm Springs with the other members of the Sork lab, where we all either presented a poster or gave a talk 🙌🏼. Was inspired by some amazing work ranging from carbon transport in leaves to pangenomes, and gave two talks myself. 
 
+- **Summer 2025:** Listened to some fab undergraduate posters and talks at the UCLA EEB research day. I was lucky enough to be a judge and had the difficult decision of scoring each poster! I also gave a ⚡️ talk about my work on stress response in oaks. 
+
+- **Spring 2025:** Returned to the UC Sedgwick reserve to collect another set of leaf morphology and physiology data on burned and unburned valley oak trees
+
+- **Spring 2025:** Invited to give a talk about my work on oak responses to wildfire at a research symposium jointly organized by the Point Conception Institute and the La Kretz Center here in California
+
+- **Winter 2025:** With the help of UCLA undergrads, measured, planted and counted germination of hundreds of acorns 🌱 
 
 - **Autumn 2024:** Began mentoring five UCLA undergrads in a research project looking at the fecundity effects of the Lake Wildfire on valley oak 
 
