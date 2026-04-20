@@ -387,7 +387,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-invited-to-give-a-departmental-seminar-in-ecology-and-evolutionary-biology-here-at-ucla-the-title-of-my-talk-was-can-dna-methylation-help-us-understand-climate-adaptation-in-trees",
+            },},{id: "news-gave-a-talk-in-the-adaptive-epigenetics-session-at-the-3rd-joint-congress-on-evolutionary-biology-meeting-in-montréal-can-dna-methylation-help-us-understand-climate-adaptation-in-trees",
+          title: 'Gave a talk in the Adaptive Epigenetics session at the 3rd Joint Congress...',
+          description: "",
+          section: "News",},{id: "news-invited-to-give-a-departmental-seminar-in-ecology-and-evolutionary-biology-here-at-ucla",
+          title: 'Invited to give a departmental seminar in Ecology and Evolutionary Biology here at...',
+          description: "",
+          section: "News",},{id: "news-invited-to-give-a-departmental-seminar-in-ecology-and-evolutionary-biology-here-at-ucla-the-title-of-my-talk-was-can-dna-methylation-help-us-understand-climate-adaptation-in-trees",
           title: 'Invited to give a departmental seminar in Ecology and Evolutionary Biology here at...',
           description: "",
           section: "News",},{id: "news-new-opinion-article-published-in-trends-in-plant-science-in-which-we-argue-that-as-in-crop-plants-some-types-of-dna-methylation-in-trees-can-induce-phenotypic-changes-including-changes-in-climate-relevant-traits-this-follows-recent-findings-in-a-few-tree-species-that-show-phenotypic-change-following-dna-methylation-of-promoter-regions-upstream-of-genes",
