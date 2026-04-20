@@ -387,10 +387,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-gave-a-talk-in-the-adaptive-epigenetics-session-at-the-3rd-joint-congress-on-evolutionary-biology-meeting-in-montréal-can-dna-methylation-help-us-understand-climate-adaptation-in-trees",
-          title: 'Gave a talk in the Adaptive Epigenetics session at the 3rd Joint Congress...',
-          description: "",
-          section: "News",},{id: "news-invited-to-give-a-departmental-seminar-in-ecology-and-evolutionary-biology-here-at-ucla",
+            },},{id: "news-invited-to-give-a-departmental-seminar-in-ecology-and-evolutionary-biology-here-at-ucla",
           title: 'Invited to give a departmental seminar in Ecology and Evolutionary Biology here at...',
           description: "",
           section: "News",},{id: "news-invited-to-give-a-departmental-seminar-in-ecology-and-evolutionary-biology-here-at-ucla-the-title-of-my-talk-was-can-dna-methylation-help-us-understand-climate-adaptation-in-trees",
