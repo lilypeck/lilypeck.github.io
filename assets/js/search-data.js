@@ -387,7 +387,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-invited-to-give-a-departmental-seminar-in-ecology-and-evolutionary-biology-here-at-ucla",
+            },},{id: "news-the-lake-wildfire-erupted-in-the-santa-ynez-valley-where-the-uc-sedgwick-reserve-is-located-a-long-term-oak-study-site-for-the-sork-lab-we-went-up-as-a-lab-the-week-following-the-fire-and-i-returned-after-a-month-to-measure-physiological-traits-of-burnt-and-un-burnt-trees-watch-this-space",
+          title: 'The Lake Wildfire erupted in the Santa Ynez Valley, where the UC Sedgwick...',
+          description: "",
+          section: "News",},{id: "news-gave-a-talk-in-the-adaptive-epigenetics-session-at-the-3rd-joint-congress-on-evolutionary-biology-meeting-in-montréal-can-dna-methylation-help-us-understand-climate-adaptation-in-trees",
+          title: 'Gave a talk in the Adaptive Epigenetics session at the 3rd Joint Congress...',
+          description: "",
+          section: "News",},{id: "news-invited-to-give-a-departmental-seminar-in-ecology-and-evolutionary-biology-here-at-ucla",
           title: 'Invited to give a departmental seminar in Ecology and Evolutionary Biology here at...',
           description: "",
           section: "News",},{id: "news-invited-to-give-a-departmental-seminar-in-ecology-and-evolutionary-biology-here-at-ucla-the-title-of-my-talk-was-can-dna-methylation-help-us-understand-climate-adaptation-in-trees",
