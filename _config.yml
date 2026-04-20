@@ -151,8 +151,8 @@ collections:
   projects:
     output: true
 
-news_scrollable: true  # adds a scrollbar if there are more than news_limit items
-news_limit: 5          # how many news items appear on the homepage; leave blank for all
+news_limit: 3
+news_scrollable: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
